@@ -1,0 +1,43 @@
+.custom-header {
+    background-image: url('../images/blue-bg.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.custom-dark-glow {
+    color:rgb(187, 183, 176);
+    text-shadow:1px 1px 10px #000, 1px 1px 10px #f4f4f4;
+}
+
+body {text-align:center;}
+
+h1, h2 {
+    font-family: "Protest Strike", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h3 {
+ margin-top: 3rem;
+ margin-bottom: 2rem;
+}
+
+.my-custom-color {background-color:#90764a;}
+
+.tab-content > .active {
+    display: block;
+    background-color: #059fd2b2;
+    padding-bottom: 1rem;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+  }
+
+ .nav-link:hover {
+    color: #e2acac;
+  }
+  
+  .nav-link { 
+      color:#211506;
+  }
+
+ 
